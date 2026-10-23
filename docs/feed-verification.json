@@ -1,0 +1,158 @@
+{
+  "checkedOn": "2026-10-22",
+  "feeds": [
+    {
+      "id": "bbc-asia",
+      "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "items": 17,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-europe",
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "items": 23,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-us-canada",
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "items": 23,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-africa",
+      "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "items": 33,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-latin-america",
+      "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "items": 17,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-middle-east",
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "items": 27,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-tech",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "items": 21,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-science",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "items": 42,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "bbc-health",
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "items": 55,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "guardian-china",
+      "url": "https://www.theguardian.com/world/china/rss",
+      "items": 20,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "guardian-taiwan",
+      "url": "https://www.theguardian.com/world/taiwan/rss",
+      "items": 20,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "guardian-australia",
+      "url": "https://www.theguardian.com/australia-news/rss",
+      "items": 20,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "guardian-sport",
+      "url": "https://www.theguardian.com/sport/rss",
+      "items": 47,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "guardian-environment",
+      "url": "https://www.theguardian.com/environment/rss",
+      "items": 25,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "guardian-science",
+      "url": "https://www.theguardian.com/science/rss",
+      "items": 27,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "hkfp",
+      "url": "https://hongkongfp.com/feed/",
+      "items": 30,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "globalvoices",
+      "url": "https://globalvoices.org/feed/",
+      "items": 15,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "france24",
+      "url": "https://www.france24.com/en/rss",
+      "items": 24,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "dw",
+      "url": "https://rss.dw.com/rdf/rss-en-all",
+      "items": 134,
+      "status": "ok",
+      "root": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF"
+    },
+    {
+      "id": "japantimes",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "items": 30,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "cna-latest",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "items": 20,
+      "status": "ok",
+      "root": "rss"
+    },
+    {
+      "id": "chinadaily",
+      "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

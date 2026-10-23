@@ -1,0 +1,31 @@
+.gradle/
+.tooling/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+.DS_Store
+captures/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+keystore.properties
+key.properties
+*.p12
+*.pfx
+*.pem
+
+# Local editor and agent settings
+.vscode/
+.agents/
+.codex/
+.aws/
+
+# Distributable build outputs (publish through GitHub Releases)
+*.apk
+*.aab
